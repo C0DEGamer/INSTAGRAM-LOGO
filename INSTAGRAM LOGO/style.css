@@ -1,0 +1,54 @@
+
+
+  body{
+    background: rgba(0,0,0,0.946);
+    
+} 
+ .insta{
+ width:280px;
+ display:flex;
+ align-items: center;
+ margin:0;
+ padding:0;
+ height:280px;
+ border-radius:50px;
+ background:radial-gradient(circle at 27% 107%,rgb(253,244,151) 0%,rgb(253,244,151) 5%,rgb(253,89,73) 38%,rgb(214,36,159) 66%, rgb(40,90,235) 130%);
+
+ position:absolute;
+ left:40%;
+ top:30%;
+
+                 
+ }
+ .inner{
+  width:66%;           
+  height:66%;
+  border:15px solid white;
+  border-radius:50px;
+  margin:20px;
+  position:relative;
+  left:13px;
+  
+ }
+ .circle{
+
+  width:80px;
+  height:80px;
+  border-radius:100%;
+  border:15px solid white; 
+  position:relative;
+  top:40px;
+ }
+
+.dot{
+  width:30px;
+  height:30px;
+  border-radius: 100%;
+  background: white;
+  position:absolute;
+  left:135px;
+  top:17px;
+}
+
+
+  
